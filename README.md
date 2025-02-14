@@ -1,1 +1,2 @@
 # Insurtech-el-algoritmo-del-futuro-asegurador
+La digitalización y la inteligencia artificial están reescribiendo las reglas del sector asegurador. Las insurtech eliminan papeleo y tiempos de espera, utilizando blockchain para garantizar transparencia y seguridad. Ahora es posible obtener pólizas en minutos desde cualquier lugar, optimizando costos y mejorando la experiencia del usuario. La tecnología no solo innova, sino que redefine el concepto de protección.
